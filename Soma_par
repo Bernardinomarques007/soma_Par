@@ -4,5 +4,4 @@ for I in range(0,100):
     if I  % 2 == 0:
         soma += I
         print(soma)
-    else:
-        print("Não temos numeros pares")
+    
